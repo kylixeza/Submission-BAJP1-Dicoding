@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/audiowide</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/londrina_shadow</item>
+        <item>@font/passion_one_bold</item>
+        <item>@font/supermercado_one</item>
+    </array>
+</resources>
